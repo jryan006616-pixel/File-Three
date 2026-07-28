@@ -1,0 +1,6 @@
+{
+  "name": "Rhino MDs Credentialing",
+  "description": "Rhino MDs modern medical practice credentialing, revenue cycle management, payer enrollment, EDI/EFT clearinghouse activation, CAQH maintenance, and multi-state licensing platform.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
